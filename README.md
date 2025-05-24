@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# smartphones-data-analysis
-=======
 # Smartphone Data Analysis Project
 
 ## Overview
@@ -62,4 +59,3 @@ Mobile Prices/
 ## Author
 - Mostafa Eslam Elsayed
 - Date: May 2024
->>>>>>> e1dff5a (Initial commit: Smartphone Data Analysis project)
